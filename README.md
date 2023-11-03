@@ -2,4 +2,4 @@
 
 ### - Integrantes
 | Nombre | Apellido | Rol |
-|-|-|-|
+|-J|-|-|
